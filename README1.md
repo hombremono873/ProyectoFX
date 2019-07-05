@@ -1,2 +1,3 @@
 # ProyectoFX
-Este archivo es solo un ejempl.
+Este archivo es solo un ejemplo,
+Estamos aprendiendo javaFx
